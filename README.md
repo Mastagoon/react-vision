@@ -19,14 +19,17 @@ This project is a simple React application that allows users to upload an image 
 ### Installation
 
 1. **Clone the Repository**
-   ```bash
+```bash
    git clone https://github.com/mastagoon/react-vision
    cd react-vision
+```
 
 2. **Install Dependancies**
-   ```bash
-   npm install```
+```bash
+   npm install
+```
    
 3. **Start the Development Server**
-   ```bash
-   npm start```
+```bash
+   npm start
+```
